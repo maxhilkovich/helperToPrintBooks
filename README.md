@@ -1,3 +1,5 @@
+01.04.2015 
+
 This is Helper to print the multiple pages of books.
 Why is it needed:
 - if your printer driver or application don't support printing of a book as a brochure;
